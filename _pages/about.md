@@ -12,7 +12,7 @@ profile:
     <p><strong>조대헌 (Daeheon Cho)</strong></p>
     <p>Associate Professor</p>
     <p>사범대학 720호</p>
-    <p>dhncho [at] knu.ac.kr</p>
+    <p>dhncho@knu.ac.kr</p>
 
 selected_papers: false
 social: true
