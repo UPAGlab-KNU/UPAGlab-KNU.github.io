@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://upaglab-knu.io/sitemap.xml
+Sitemap: https://upaglab-knu.github.io/sitemap.xml
