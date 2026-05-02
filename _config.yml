@@ -277,8 +277,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Cho, 조대헌]
+  first_name: [Daeheon, D., 대헌]
 
   style: apa
   locale: en
