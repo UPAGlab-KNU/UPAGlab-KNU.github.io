@@ -84,3 +84,17 @@ nav_order: 4
     <p>📧 [이메일주소]</p>
   </div>
 </div>
+
+## 학부연구생 (Undergraduate Researchers)
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="{{ '/assets/img/park_eunsoo.svg' | relative_url }}" alt="박은수">
+  </div>
+  <div class="member-info">
+    <h3>박은수 (Eunsoo Park)</h3>
+    <div class="member-meta">학부연구생 · Undergraduate Researcher</div>
+    <p><strong>관심 분야:</strong> GIS · Population Geography· Urban Geography</p>
+    <p>📧 esp2082@cku.ac.kr</p>
+  </div>
+</div>
