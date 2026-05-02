@@ -59,7 +59,7 @@ nav_order: 4
 
 <div class="member-card">
   <div class="member-photo">
-    <img src="{{ '/assets/img/kal_bongsu.svg' | relative_url }}" alt="갈봉수">
+    <img src="{{ '/assets/img/kal_bongsu.jpg' | relative_url }}" alt="갈봉수">
   </div>
   <div class="member-info">
     <h3>갈봉수 (Kal Bongsu)</h3>
@@ -73,7 +73,7 @@ nav_order: 4
 
 <div class="member-card">
   <div class="member-photo">
-    <img src="{{ '/assets/img/yoo_yewon.svg' | relative_url }}" alt="유예원">
+    <img src="{{ '/assets/img/yoo_yewon.jpg' | relative_url }}" alt="유예원">
   </div>
   <div class="member-info">
     <h3>유예원 (Yoo Yewon)</h3>
