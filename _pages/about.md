@@ -6,7 +6,7 @@ subtitle: <strong>Urban and Population Analysis with GeoIntelligence Lab</strong
 
 profile:
   align: right
-  image: false
+  image:
   image_circular: false
   more_info: >
     <p><strong>UPAG Lab</strong></p>
