@@ -15,7 +15,7 @@ nav_order: 2
       <p>부교수 (Associate Professor)</p>
       <p>경북대학교 사범대학 지리교육과</p>
       <p>📍 사범대학 720호</p>
-      <p>📧 dhncho [at] knu.ac.kr</p>
+      <p>📧 dhncho@knu.ac.kr</p>
     </div>
   </div>
 
