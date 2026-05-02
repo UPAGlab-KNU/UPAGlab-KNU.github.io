@@ -24,7 +24,7 @@ nav_order: 4
 }
 .member-photo img {
   width: 100%;
-  border-radius: 50%;
+  border-radius: 8px;
   aspect-ratio: 1 / 1;
   object-fit: cover;
 }
