@@ -67,7 +67,7 @@ nav_order: 4
     <p><strong>연구 주제:</strong> 네트워크 공간분석 (Network Spatial Analysis)</p>
     <p>도시 내 다양한 네트워크(교통, 사회 등)의 구조와 공간적 특성을 분석하여 도시 현상을 이해하고자 합니다.</p>
     <p><strong>관심 분야:</strong> Network Spatial Analysis · GIS</p>
-    <p>📧 bongsukal@knu.ac.kr
+    <p>📧 bongsukal@knu.ac.kr</p>
   </div>
 </div>
 
