@@ -15,7 +15,7 @@ profile:
     <p>📧 dhncho@knu.ac.kr</p>
 
 selected_papers: false
-social: true
+social: false
 announcements:
   enabled: true
   scrollable: true
