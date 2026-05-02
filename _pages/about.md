@@ -16,7 +16,7 @@ latest_posts:
   limit: 3
 ---
 
-<div style="text-align: center; margin: 1.5rem 0 2.5rem 0;">
+<div style="text-align: center; margin: 2rem 0 3rem 0;">
   <img src="{{ '/assets/img/big.png' | relative_url }}" alt="UPAG Lab" style="max-width: 600px; width: 100%; height: auto;">
 </div>
 
@@ -30,4 +30,4 @@ latest_posts:
 - 지리정보시스템 (GIS)
 - 공간 데이터 사이언스 (GeoIntelligence)
 
-우리 연구실은 **경북대학교 사범대학 지리교육과**에 소속되어 있습니다. 연구실 컨택이나 공동연구에 관심 있으신 분은 언제든 연락 주세요.
+우리 연구실 컨택이나 공동연구에 관심 있으신 분은 **upaglab@gmail.com**으로 언제든 연락 주세요.
