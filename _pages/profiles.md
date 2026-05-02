@@ -62,12 +62,12 @@ nav_order: 4
     <img src="{{ '/assets/img/kal_bongsu.jpg' | relative_url }}" alt="갈봉수">
   </div>
   <div class="member-info">
-    <h3>갈봉수 (Kal Bongsu)</h3>
+    <h3>갈봉수 (Bongsu Kal)</h3>
     <div class="member-meta">석사과정 1년차 · M.A. Student (1st year)</div>
     <p><strong>연구 주제:</strong> 네트워크 공간분석 (Network Spatial Analysis)</p>
     <p>도시 내 다양한 네트워크(교통, 사회 등)의 구조와 공간적 특성을 분석하여 도시 현상을 이해하고자 합니다.</p>
-    <p><strong>관심 분야:</strong> Network Spatial Analysis · Urban Geography · GIS</p>
-    <p>📧 [이메일주소]</p>
+    <p><strong>관심 분야:</strong> Network Spatial Analysis · GIS</p>
+    <p>📧 bongsukal@knu.ac.kr
   </div>
 </div>
 
@@ -76,7 +76,7 @@ nav_order: 4
     <img src="{{ '/assets/img/yoo_yewon.jpg' | relative_url }}" alt="유예원">
   </div>
   <div class="member-info">
-    <h3>유예원 (Yoo Yewon)</h3>
+    <h3>유예원 (Yewon Yoo)</h3>
     <div class="member-meta">석사과정 1년차 · M.A. Student (1st year)</div>
     <p><strong>연구 주제:</strong> 스마트도시 (Smart City)</p>
     <p>데이터와 기술이 도시 운영과 시민의 삶에 어떻게 통합되는지를 공간적 관점에서 탐구합니다.</p>
