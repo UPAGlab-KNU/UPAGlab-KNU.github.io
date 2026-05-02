@@ -46,8 +46,8 @@ nav_order: 2
     
     <h3>경력 (Experience)</h3>
     <ul>
-      <li>2024 ~ 현재 — 부교수, 경북대학교, 대구</li>
-      <li>2023 ~ 2024 — 조교수, 경북대학교, 대구</li>
+      <li>2025 ~ 현재 — 부교수, 경북대학교, 대구</li>
+      <li>2023 ~ 2025 — 조교수, 경북대학교, 대구</li>
       <li>2015 ~ 2022 — 조교수, 가톨릭관동대학교, 강릉</li>
       <li>2013 ~ 2015 — 박사후연구원 (Postdoctoral Researcher), 서울대학교, 서울</li>
       <li>2010 ~ 2011 — 특임교수 (Professor for Special Appointment), 이화여자대학교</li>
