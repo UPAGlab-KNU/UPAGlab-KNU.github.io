@@ -1,17 +1,21 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
+
 @use "variables" as v;
 @use "sass:color";
-
+// UPAG Lab Colors
+$upag-blue: #1f5f8b;
+$upag-blue-dark: #2a7ab0;
+$upag-orange: #f08020;
 :root {
   color-scheme: light;
   --global-bg-color: #{v.$white-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
   --global-text-color: #{v.$black-color};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{v.$purple-color};
-  --global-hover-color: #{v.$purple-color};
+  --global-theme-color: #{$upag-blue};
+  --global-hover-color: #{$upag-orange};
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
@@ -80,8 +84,8 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{v.$code-bg-color-dark};
   --global-text-color: #{v.$grey-color-light};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{v.$cyan-color};
-  --global-hover-color: #{v.$cyan-color};
+  --global-theme-color: #{$upag-blue-dark};
+  --global-hover-color: #{$upag-orange};
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
