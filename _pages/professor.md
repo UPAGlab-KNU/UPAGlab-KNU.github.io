@@ -20,14 +20,14 @@ nav_order: 2
   </div>
 
   <div class="col-sm-8">
-    <h3><strong>약력 (Biography)</strong></h3>
+    <h3><strong>Biography</strong></h3>
     <p>
       조대헌 교수는 경북대학교 사범대학 지리교육과 부교수로 재직 중이며, UPAG Lab을 이끌고 있습니다.
-      GIS와 공간통계를 기반으로 도시지리, 인구지리, 경제지리 분야의 연구를 수행하고 있으며,
+      GIS와 공간통계를 기반으로 도시지리, 인구지리 등 다양한 분야의 연구를 수행하고 있으며,
       도시 축소, 인구 이동, 공간적 접근성, 사회-공간적 불평등 등 다양한 주제를 다루고 있습니다.
     </p>
 
-    <h3><strong>연구 관심 분야 (Research Interests)</strong></h3>
+    <h3><strong>Research Interests</strong></h3>
     <ul>
       <li>지리정보시스템 (GIS)</li>
       <li>공간통계 및 공간분석 (Spatial Statistics & Analysis)</li>
@@ -37,14 +37,14 @@ nav_order: 2
       <li>사회-공간적 불평등 (Socio-spatial Inequality)</li>
     </ul>
 
-    <h3><strong>학력 (Education)</strong></h3>
+    <h3><strong>Education</strong></h3>
     <ul>
       <li>2006 — 박사 (Ph.D.), 서울대학교</li>
       <li>2001 — 석사 (M.A.), 서울대학교</li>
       <li>1996 — 학사 (B.A.), 서울대학교</li>
     </ul>
 
-    <h3><strong>경력 (Experience)</strong></h3>
+    <h3><strong>Experience</strong></h3>
     <ul>
       <li>2025 ~ 현재 — 부교수, 경북대학교, 대구</li>
       <li>2023 ~ 2025 — 조교수, 경북대학교, 대구</li>
@@ -54,7 +54,7 @@ nav_order: 2
       <li>2007 ~ 2009 — 부연구위원 (Associate Research Fellow), 국토연구원, 세종(안양)</li>
     </ul>
 
-    <h3><strong>주요 연구 실적 (Major Research Achievements)</strong></h3>
+    <h3><strong>Major Research Achievements</strong></h3>
     <ul>
       <li>한국의 도시 축소 인구 요인 및 특성 분석</li>
       <li>코로나19 대응 시기 서울 지역 인구 이동성이 지역 상권 매출에 미친 영향의 시공간적 변동성</li>
