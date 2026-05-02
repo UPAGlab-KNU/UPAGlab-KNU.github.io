@@ -55,7 +55,7 @@ nav_order: 4
 }
 </style>
 
-## 석사과정 (M.A. Students)
+## <strong>석사과정 (M.A. Students)</strong>
 
 <div class="member-card">
   <div class="member-photo">
@@ -87,7 +87,7 @@ nav_order: 4
 
 
 
-## 학부연구생 (Undergraduate Researchers)
+## <strong>학부연구생 (Undergraduate Researchers)</strong>
 
 <div class="member-card">
   <div class="member-photo">
