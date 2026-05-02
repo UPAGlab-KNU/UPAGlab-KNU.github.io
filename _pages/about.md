@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><strong>조대헌 (Daeheon Cho)</strong></p>
-    <p>Associate Professor</p>
-    <p>사범대학 720호</p>
-    <p>dhncho@knu.ac.kr</p>
+    <p><strong>UPAG Lab</strong></p>
+    <p>경북대학교 사범대학 지리교육과</p>
+    <p>📍 사범대학 720호</p>
+    <p>📧 dhncho [at] knu.ac.kr</p>
 
 selected_papers: false
 social: true
