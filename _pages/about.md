@@ -4,16 +4,6 @@ title: about
 permalink: /
 subtitle: <strong>Urban and Population Analysis with GeoIntelligence Lab</strong> · Department of Geography Education, Kyungpook National University
 
-profile:
-  align: right
-  image:
-  image_circular: false
-  more_info: >
-    <p><strong>UPAG Lab</strong></p>
-    <p>경북대학교 사범대학 지리교육과</p>
-    <p>📍 사범대학 720호</p>
-    <p>📧 dhncho@knu.ac.kr</p>
-
 selected_papers: false
 social: false
 announcements:
@@ -25,6 +15,10 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
+
+<div style="text-align: center; margin: 1.5rem 0 2.5rem 0;">
+  <img src="{{ '/assets/img/big.png' | relative_url }}" alt="UPAG Lab" style="max-width: 600px; width: 100%; height: auto;">
+</div>
 
 **UPAG Lab** (Urban and Population Analysis with GeoIntelligence)에 오신 것을 환영합니다.
 
