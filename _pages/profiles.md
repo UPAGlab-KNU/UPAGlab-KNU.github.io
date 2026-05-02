@@ -89,7 +89,7 @@ nav_order: 4
 
 <div class="member-card">
   <div class="member-photo">
-    <img src="{{ '/assets/img/park_eunsoo.svg' | relative_url }}" alt="박은수">
+    <img src="{{ '/assets/img/park_eunsoo.png' | relative_url }}" alt="박은수">
   </div>
   <div class="member-info">
     <h3>박은수 (Eunsoo Park)</h3>
