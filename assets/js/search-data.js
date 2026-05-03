@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-tools",
+          title: "tools",
+          description: "공간분석 도구",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/tools/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
