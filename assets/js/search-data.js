@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-tools",
           title: "tools",
-          description: "공간분석 도구",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/tools/";
