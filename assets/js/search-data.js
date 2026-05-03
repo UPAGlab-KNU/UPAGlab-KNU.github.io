@@ -44,14 +44,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-tools",
-          title: "tools",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/tools/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-pinogio-분석",
+              title: "Pinogio 분석",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/tools/pinogio/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
