@@ -3,7 +3,26 @@
  ******************************************************************************/
 
 @use "variables" as v;
+// Pretendard 폰트 import
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
 
+// 본문 기본 폰트: Nanum Gothic
+body {
+  font-family: "Nanum Gothic", "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+// 제목/헤더는 Pretendard
+h1, h2, h3, h4, h5, h6,
+.navbar-brand,
+.title {
+  font-family: "Pretendard", "Nanum Gothic", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 700;
+}
+
+// 네비게이션 메뉴
+.nav-link {
+  font-family: "Pretendard", "Nanum Gothic", sans-serif;
+}
 p,
 h1,
 h2,
