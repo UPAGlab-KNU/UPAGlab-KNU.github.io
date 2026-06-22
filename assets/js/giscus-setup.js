@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "upaglab-sys/upaglab_knu",
+    "data-repo": "upaglab-sys/upaglab-sys.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
